@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ProSHop**
 
-- 🌱 I’m currently learning **fastapi noed.js tensorflow kubernetes**
+- 🌱 I’m currently learning **Fastapi, Noed.js, Tensorflow, Tubernetes**
 
 - 👯 I’m looking to collaborate on **Falcon**
 
