@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Olcha**
 
-- 🌱 I’m currently learning **Fastapi, Noed.js, Tensorflow, Kubernetes**
+- 🌱 I’m currently learning **Fastapi**
 
 - 👯 I’m looking to collaborate on **Falcon**
 
