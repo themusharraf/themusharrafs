@@ -5,17 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themusharraf" alt="Musharraf" /></a> </p>
 
-- 🔭 I’m currently working on **FlixTv**
-
-- 🌱 I’m currently learning **Fastapi**
-
-- 👯 I’m looking to collaborate on **Falcon**
-
-- 👨‍💻 All of my projects are available at [https://github.com/themusharraf](https://github.com/themusharraf)
-
 - ⚡ Fun fact [i love to code](i love to code)
-
-- 💬 Ask me about **Python,Django RestApi, Docker,Postgres, MySql, Sqlite3**
 
 - 📫 How to reach me **meibrohimov@gmail.com**
 
