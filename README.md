@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themusharraf" alt="Musharraf" /></a> </p>
 
-- ⚡ Fun fact i love to code
+- ⚡ Fun fact i love to code 
 
 - 📫 How to reach me **meibrohimov@gmail.com**
 
