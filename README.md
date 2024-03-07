@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themusharraf" alt="Musharraf" /></a> </p>
 
-- ⚡ Fun fact i love to code 
-
-- 📫 How to reach me **meibrohimov@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/musharrafibragimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musharrafibragimov" height="30" width="40" /></a>
