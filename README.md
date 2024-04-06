@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
  
 
-[![My Skills](https://skillicons.dev/icons?i=linux,cpp,go,python,django,fastapi,qt,tensorflow,postgresql,sqlite,mongodb,rabbitmq,git,docker,nginx,postman,selenium,sentry,html,css,vscode,atom,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,cpp,go,python,django,fastapi,qt,tensorflow,postgresql,sqlite,mongodb,rabbitmq,git,docker,elasticsearch,nginx,postman,selenium,sentry,html,css,vscode,atom,linkedin)](https://skillicons.dev)
 
 
 
