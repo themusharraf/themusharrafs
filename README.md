@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themusharraf" alt="Musharraf" /></a> </p>
 
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/themusharraf.svg)](https://user-badge.committers.top/uzbekistan/themusharraf)
-[![committers.top badge](https://org-badge.committers.top/uzbekistan/ORGNAME.svg)](https://org-badge.committers.top/uzbekistan/ORGNAME)
 
 
 
