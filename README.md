@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
  
 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,go,rust,python,javascript,django,fastapi,qt,postgresql,sqlite,mongodb,redis,rabbitmq,git,docker,elasticsearch,nginx,postman,selenium,html,css,vscode,github,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,go,rust,python,django,fastapi,qt,postgresql,sqlite,mongodb,redis,rabbitmq,git,docker,elasticsearch,nginx,postman,selenium,html,css,vscode,github,linkedin)](https://skillicons.dev)
 
 
 
